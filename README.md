@@ -1,1 +1,2 @@
-# react.App
+# react-bootstrap
+sample app
